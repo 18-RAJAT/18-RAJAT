@@ -1,35 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Rajat Joshi</h1>
+<h3 align="center">C++ dev</h3>
 
-### Hi there 👋, Rajat Joshi
-#### C++
-![C++](https://avatars.githubusercontent.com/u/78920780?s=400&u=3b58467e314f44917584cafe016f797584010e89&v=4)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=18-rajat&label=Profile%20views&color=0e75b6&style=flat" alt="18-rajat" /> </p>
 
-CS-IT Student
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=18-rajat" alt="18-rajat" /></a> </p>
 
-Skills:  REACT / JS / HTML / CSS
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rajat joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat joshi" height="30" width="40" /></a>
+<a href="https://instagram.com/rajat_joshi_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajat_joshi_18" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/iconic_rajat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iconic_rajat" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on Student 
-- 🌱 I’m currently learning React & Data structure and Algorithms 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about C++ 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=18-rajat&show_icons=true&locale=en&layout=compact" alt="18-rajat" /></p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/18-RAJAT)  [<img src='https://cdn.jsdelivr.net/npm/simple-
-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rajat_joshi_18/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Rajat_1835) 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=18-rajat&show_icons=true&locale=en" alt="18-rajat" /></p>
 
-
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'>](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redbubble.com%2Fi%2Fgreeting-card%2FC-logo-by-hipstuff%2F27700438.5MT14&psig=AOvVaw2ZExBGMb50jEWG--hcfUyr&ust=1641815481399000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjDitjNpPUCFQAAAAAdAAAAABAK)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AReact-icon.svg&psig=AOvVaw19AogqBEs75uvL7PoUC5qf&ust=1641815522636000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjgmc7NpPUCFQAAAAAdAAAAABAD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepnglogos.com%2Fpics%2Fjavascript&psig=AOvVaw0tZoYxCRGa6dGdbnrDws1c&ust=1641815649567000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiu24rOpPUCFQAAAAAdAAAAABAI)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AHTML5_logo_and_wordmark.svg&psig=AOvVaw3VhWFIjcdDPn19F7kq8573&ust=1641815678609000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjbopjOpPUCFQAAAAAdAAAAABAD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCSS&psig=AOvVaw3O3Ztc6gmY1xCs8Q0FGANS&ust=1641815722163000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCz3qzOpPUCFQAAAAAdAAAAABAD)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=18-RAJAT)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=18-RAJAT&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=18-RAJAT)  
-
-![GitHub metrics](https://metrics.lecoq.io/18-RAJAT)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=18-RAJAT)  
-
-![Profile views](https://gpvc.arturio.dev/18-RAJAT)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=18-rajat&" alt="18-rajat" /></p>
