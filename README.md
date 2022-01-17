@@ -6,7 +6,7 @@
 Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Student 
-- 🌱 I’m currently learning React & Data Structure and Algorithms 
+- 🌱 I’m currently learning React & Data Structure and Algorithms & Dart
 - 👯 I’m looking to collaborate on Projects 
 - 💬 Ask me about C++ 
 - 📫 How to reach me: Rajatjoshi7535@gmail.com 
