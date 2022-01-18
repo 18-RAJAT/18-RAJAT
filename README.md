@@ -29,4 +29,4 @@ Skills: REACT / JS / HTML / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=18-RAJAT)  
 
-![Profile views](https://gpvc.arturio.dev/18-RAJAT)  
+![Profile views](https://gpvc.arturio.dev/18-RAJAT)   
