@@ -1,7 +1,7 @@
 ### Hi there 👋, Rajat Joshi
 #### C++ DEV
-![C++ DEV]
-http://engineering.letsnurture.com/wp-content/uploads/2018/07/flutter.png
+
+<img src='https://miro.medium.com/max/793/1*7Sb1lqiQMxtweLTsXN_6Wg.png'>
 
 
 Skills: REACT / JS / HTML / CSS
