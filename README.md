@@ -1,5 +1,5 @@
 ### Hi there 👋, Rajat Joshi
-#### C++ DEV
+#### Hey Developers
 
 <img src='https://miro.medium.com/max/793/1*7Sb1lqiQMxtweLTsXN_6Wg.png'>
 
