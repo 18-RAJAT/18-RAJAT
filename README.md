@@ -1,6 +1,7 @@
 ### Hi there 👋, Rajat Joshi
 #### C++ DEV
-![C++ DEV](https://files.readme.io/d14112d-Cloudsmith-Integrations-Banner-GitHub.png)
+![C++ DEV]
+http://engineering.letsnurture.com/wp-content/uploads/2018/07/flutter.png
 
 
 Skills: REACT / JS / HTML / CSS
