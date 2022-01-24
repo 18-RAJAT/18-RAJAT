@@ -4,7 +4,7 @@
 <img src='https://miro.medium.com/max/793/1*7Sb1lqiQMxtweLTsXN_6Wg.png'>
 
 
-Skills: REACT / JS / HTML / CSS
+Skills: DART / C++
 
 - 🔭 I’m currently working on Student 
 - 🌱 I’m currently learning React & Data Structure and Algorithms & Dart
