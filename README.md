@@ -31,9 +31,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=18-rajat&" alt="18-rajat" /></p>
 
 
-
-![GitHub metrics](https://metrics.lecoq.io/18-RAJAT)  
-
 ![Profile views](https://gpvc.arturio.dev/18-RAJAT)   
 
 
