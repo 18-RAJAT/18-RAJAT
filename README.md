@@ -31,3 +31,5 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=18-RAJAT)  
 
 ![Profile views](https://gpvc.arturio.dev/18-RAJAT)   
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
