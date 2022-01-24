@@ -1,10 +1,14 @@
 ### Hi there 👋, Rajat Joshi
 #### Hey Developers
 
-<img src='https://miro.medium.com/max/793/1*7Sb1lqiQMxtweLTsXN_6Wg.png'>
+<img src='https://miro.medium.com/max/3840/1*1nrqyeBYg4xzkXDZJlxiTg.png'>
+
+<img src='https://habrastorage.org/getpro/habr/upload_files/347/bc4/240/347bc424029e258318de6c8ab17c9052.png'>
+
+<img src='https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png'>
 
 
-   Skills: DART / C++
+   Skills: DART / FLUTTER / C++
 
 - 🔭 I’m currently working on Student 
 - 🌱 I’m currently learning React & Data Structure and Algorithms & Dart
