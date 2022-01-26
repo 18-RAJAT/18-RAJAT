@@ -2,7 +2,7 @@
 
    Skills: DART / FLUTTER / C++
    
-- 🌱 I’m currently learning **Dart/Flutter/MYSQL**
+- 🌱 I’m currently learning **Dart/Flutter/MySQL**
 
 - 👯 Github **Rajat Joshi**
 
