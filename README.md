@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajat Joshi</h1>
 <h3 align="center">C++ dev</h3>
 
-![Profile views](https://gpvc.arturio.dev/18-RAJAT)   
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=18-rajat" alt="18-rajat" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Dart/Flutter**
@@ -34,8 +30,17 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=18-rajat&show_icons=true&locale=en&layout=compact" alt="18-rajat" /></p>
 
 
+
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=18-rajat" alt="18-rajat" /></a> </p>
+
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=18-rajat&" alt="18-rajat" /></p>
 
+![Profile views](https://gpvc.arturio.dev/18-RAJAT)   
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg) 
+
 
