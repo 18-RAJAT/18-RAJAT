@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajat Joshi</h1>
 <h3 align="center">C++</h3>
 
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
 - 🌱 I’m currently learning **Dart/Flutter/Firebase**
 
 - 👯 Github **Rajat Joshi**
