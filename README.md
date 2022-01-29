@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rajat Joshi</h1>
 <h3 align="center">C++</h3>
 
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 - 🌱 I’m currently learning **Dart/Flutter/Firebase**
 
@@ -32,9 +36,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=18-rajat&show_icons=true&locale=en&layout=compact" alt="18-rajat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=18-rajat&show_icons=true&locale=en" alt="18-rajat" /></p>
 
-
+![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=18-RAJAT&show_icons=true&theme=algolia)
 
 
 
