@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajat Joshi</h1>
 <h3 align="center">Programmer</h3>
 
+![Profile views](https://gpvc.arturio.dev/18-RAJAT) 
 
 - 🌱 I’m currently learning **Dart/Flutter/Firebase**
 
@@ -43,7 +44,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=18-rajat&" alt="18-rajat" /></p>
 
-![Profile views](https://gpvc.arturio.dev/18-RAJAT)   
+  
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg) 
 
