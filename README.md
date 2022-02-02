@@ -2,7 +2,6 @@
 <h3 align="center">Programmer</h3>
 
 
-
 - 🌱 I’m currently learning **Dart/Flutter/Firebase**
 
 - 👯 Github **Rajat Joshi**
