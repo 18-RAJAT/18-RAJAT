@@ -5,7 +5,7 @@
 
 ![This is an image](https://i.imgur.com/bHA8KE7.gif) 
 
-- 🌱 I’m currently learning **Dart/Flutter/Firebase**
+- 🌱 I’m currently learning **HTML/CSS/JS**
 
 - 👯 Github **Rajat Joshi**
 
