@@ -3,6 +3,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/18-RAJAT) 
 
+![This is an image](https://i0.wp.com/www.icegif.com/wp-content/uploads/icegif-87.gif) 
+
 - 🌱 I’m currently learning **Dart/Flutter/Firebase**
 
 - 👯 Github **Rajat Joshi**
