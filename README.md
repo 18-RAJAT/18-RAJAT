@@ -3,7 +3,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/18-RAJAT) 
 
-![This is an image](https://i0.wp.com/www.icegif.com/wp-content/uploads/icegif-87.gif) 
+![This is an image](https://i.imgur.com/bHA8KE7.gif) 
 
 - 🌱 I’m currently learning **Dart/Flutter/Firebase**
 
