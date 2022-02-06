@@ -46,8 +46,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=18-rajat&" alt="18-rajat" /></p>
 
+![This is an image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif) 
   
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg) 
-
-
