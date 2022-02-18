@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajat Joshi</h1>
 <h3 align="center">Programmer</h3>
 
-<hr></hr>
+
 ![Profile views](https://gpvc.arturio.dev/18-RAJAT) 
 
 
