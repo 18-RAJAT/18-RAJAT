@@ -3,7 +3,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/18-RAJAT) 
 
-![This is an image](https://i.imgur.com/bHA8KE7.gif) 
 
 - 🌱 I’m currently learning **HTML/CSS/JS**
 
@@ -19,6 +18,8 @@
 
 <p align="left"> <a href="https://twitter.com/rajat__joshi" target="blank"><img src="https://img.shields.io/twitter/follow/rajat__joshi?logo=twitter&style=for-the-badge" alt="rajat__joshi" /></a> </p>
 
+
+<a href="https://app.daily.dev/Rajat_joshi"><img src="https://api.daily.dev/devcards/b88746ad55b249aebd019401b6a24655.png?r=qbc" width="400" alt="Rajat_Joshi's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
