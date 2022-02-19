@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajat Joshi</h1>
-<h3 align="center">Programmer</h3>
+<h3 align="center">❤️</h3>
 
 
 ![Profile views](https://gpvc.arturio.dev/18-RAJAT) 
@@ -17,16 +17,9 @@
 
 - ⚡ Fun fact **Code repeat**
 
-<br></br>
-<br></br>
-<hr></hr>
 
 <a href="https://app.daily.dev/Rajat_joshi"><img src="https://api.daily.dev/devcards/b88746ad55b249aebd019401b6a24655.png?r=qbc" width="350" alt="Rajat_Joshi's Dev Card"/></a>
 
-<hr></hr>
-
-<br></br>
-<br></br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -65,6 +58,3 @@
 
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-<hr></hr>
-
-![PedroMonkeyPuppetGIF (2)](https://user-images.githubusercontent.com/78920780/154815167-ff77fd8d-2246-4966-a9ae-e8106091660e.gif)
