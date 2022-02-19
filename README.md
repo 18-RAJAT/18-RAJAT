@@ -5,13 +5,11 @@
 ![Profile views](https://gpvc.arturio.dev/18-RAJAT) 
 
 
-- 🌱 I’m currently learning **HTML/CSS/JS**
+- 🌱 I’m currently learning **HTML/CSS/JS/React**
 
 - 👯 Github **Rajat Joshi**
 
 - 🤝 I’m looking for help with **collaborate on Projects**
-
-- 💬 Ask me about **C++**
 
 - 📫 How to reach me **Rajatjoshi7535@gmail.com**
 
