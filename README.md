@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **collaborate on Projects**
 
-- 💬 Ask me about *C++**
+- 💬 Ask me about **C++**
 
 - 📫 How to reach me **Rajatjoshi7535@gmail.com**
 
