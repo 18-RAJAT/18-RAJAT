@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajat Joshi</h1>
 
 
-<h3 align="center">🎶TLE🎯</h3>
+<h3 align="center"TLE🎯</h3>
 
 
 ![Profile views](https://gpvc.arturio.dev/18-RAJAT) 
