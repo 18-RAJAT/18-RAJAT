@@ -56,9 +56,6 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=18-RAJAT)  
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=18-rajat&" alt="18-rajat" /></p>
-
 <!-- 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
  -->
