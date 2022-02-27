@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **Code repeat**
 <h3 align="right"></h3>
-<a href="https://app.daily.dev/Rajat_joshi"><img src="https://api.daily.dev/devcards/b88746ad55b249aebd019401b6a24655.png?r=bap" width="400" alt="Rajat_Joshi's Dev Card"/></a>
+<a href="https://app.daily.dev/Rajat_joshi"><img src="https://api.daily.dev/devcards/b88746ad55b249aebd019401b6a24655.png?r=bap" width="325" alt="Rajat_Joshi's Dev Card"/></a>
 
 
 <h3 align="left">Connect with me:</h3>
