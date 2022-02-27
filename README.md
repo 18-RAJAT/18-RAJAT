@@ -44,17 +44,16 @@
 
 
 
-![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=18-RAJAT&show_icons=true&theme=tokyonight)
-
-
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=18-rajat&show_icons=true&theme=graywhite" alt="18-rajat" /></a> </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=18-RAJAT)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=18-RAJAT&theme=Vue)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=18-RAJAT)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=18-RAJAT)   -->
+
+
+![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=18-RAJAT&show_icons=true&theme=tokyonight)
+
 
 <!-- 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
