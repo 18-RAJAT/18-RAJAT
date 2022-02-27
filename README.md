@@ -49,7 +49,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=18-rajat" alt="18-rajat" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=18-rajat&show_icons=true&theme=graywhite" alt="18-rajat" /></a> </p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=18-RAJAT)](https://github.com/anuraghazra/github-readme-stats)
