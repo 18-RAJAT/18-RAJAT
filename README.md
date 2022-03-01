@@ -7,9 +7,9 @@
 ![Profile views](https://gpvc.arturio.dev/18-RAJAT) 
 
 
-- 🌱 I’m currently learning **React.**
+- 🌱 I’m currently learning **React**
 
-- 👯 Github **Rajat Joshi**
+- 👯 Github **Rajat Joshi.**
 
 - 🤝 I’m looking for help with **collaborate on Projects.**
 
