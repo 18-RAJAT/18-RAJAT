@@ -55,6 +55,5 @@
 ![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=18-RAJAT&show_icons=true&theme=tokyonight)
 
 
-<!-- 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
- -->
+
