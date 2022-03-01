@@ -11,7 +11,7 @@
 
 - 👯 Github **Rajat Joshi**
 
-- 🤝 I’m looking for help with **collaborate on Projects**
+- 🤝 I’m looking for help with **collaborate on Projects.**
 
 - 📫 How to reach me **Rajatjoshi7535@gmail.com**
 
