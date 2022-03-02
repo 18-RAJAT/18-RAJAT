@@ -7,7 +7,7 @@
 ![Profile views](https://gpvc.arturio.dev/18-RAJAT) 
 
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **JS**
 
 - 👯 Github **Rajat Joshi**
 
