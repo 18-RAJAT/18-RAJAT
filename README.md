@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👯 Github **Rajat Joshi.....**
+- 👯 Github **Rajat Joshi**
 
 - 🤝 I’m looking for help with **collaborate on Projects.**
 
