@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rajat Joshi</h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Rajat Joshi
 
 <h2 align="center"> TLE🎯</h2>
 
@@ -49,11 +50,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=18-RAJAT&theme=Vue)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=react-dark)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&layout=compact)  
 
 
 ![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=18-RAJAT&show_icons=true&theme=tokyonight)
 
-
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-
+<!-- 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg) -->
