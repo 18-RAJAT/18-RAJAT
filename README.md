@@ -49,7 +49,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=18-RAJAT&theme=Vue)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=18-RAJAT)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=react-dark)  
 
 
 ![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=18-RAJAT&show_icons=true&theme=tokyonight)
