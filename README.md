@@ -21,9 +21,9 @@
 
 - ⚡ Fun fact 🙌 **Those who cannot remember the past are condemned to repeat it.**
 
-<h3 align="right"></h3>
+<!-- <h3 align="right"></h3>
 <a href="https://app.daily.dev/Rajat_joshi"><img src="https://api.daily.dev/devcards/b88746ad55b249aebd019401b6a24655.png?r=bap" width="340" alt="Rajat_Joshi's Dev Card"/></a>
-
+ -->
 
 ## 👩‍💻 IDE 
 ![Top Graph](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -37,7 +37,7 @@
 
   ## 🚀 Frameworks
 ![Top Graph](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
- ![Top Graph](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+<!--  ![Top Graph](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) -->
  ![Top Graph](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
  
  
