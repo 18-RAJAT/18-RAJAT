@@ -53,6 +53,9 @@
 
  -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=18-rajat&show_icons=true&theme=graywhite" alt="18-rajat" /></a> </p>
+  
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=18-RAJAT&theme=holi-theme)](https://git.io/streak-stats)
+
 
 
 ## Top Languages
