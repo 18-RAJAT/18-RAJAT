@@ -4,6 +4,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/18-RAJAT) 
 
+ ![Profile Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F18-RAJAT1212%2Fhit-counter)
+
 
 
 <!-- ![Top Langs](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=minimal) -->
@@ -59,7 +61,9 @@
  -->
   
   ## Trophy:
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=18-rajat&show_icons=true&theme=discord" alt="18-rajat" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=18-rajat&show_icons=true&theme=discord" alt="18-rajat" /></a> </p> -->
+  
+ ![Top Trophy](https://github-profile-trophy.vercel.app/?username=18-RAJAT)
   
   
   ## About:
