@@ -52,17 +52,22 @@
 
 
  -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=18-rajat&show_icons=true&theme=graywhite" alt="18-rajat" /></a> </p>
+  
+  ## Trophy:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=18-rajat&show_icons=true&theme=discord" alt="18-rajat" /></a> </p>
   
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=18-RAJAT&theme=holi-theme)](https://git.io/streak-stats)
 
 
 
-## Top Languages
+## Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=18-RAJAT&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+  ## GitHub Stats:
   ![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=18-RAJAT&show_icons=true&theme=tokyonight)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=react-dark)  
+   
+  ## Activity Graph:
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=react-dark)  
 
 
 
