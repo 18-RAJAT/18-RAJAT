@@ -5,6 +5,7 @@
 ![Profile views](https://gpvc.arturio.dev/18-RAJAT) 
 
 
+
 - 🌱 I’m currently learning **JS**
 
 - 🙌 Github **Rajat Joshi**
@@ -61,7 +62,7 @@
 
 
 ## Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=18-RAJAT&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=18-RAJAT&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
   ## GitHub Stats:
   ![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=18-RAJAT&show_icons=true&theme=tokyonight)
