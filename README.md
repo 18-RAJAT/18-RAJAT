@@ -6,6 +6,9 @@
 
 
 
+<!-- ![Top Langs](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=minimal) -->
+
+
 - 🌱 I’m currently learning **JS**
 
 - 🙌 Github **Rajat Joshi**
@@ -15,6 +18,7 @@
 - 📫 How to reach me **Rajatjoshi7535@gmail.com**
 
 - ⚡ Fun fact 🙌 **Those who cannot remember the past are condemned to repeat it.**
+
 <h3 align="right"></h3>
 <a href="https://app.daily.dev/Rajat_joshi"><img src="https://api.daily.dev/devcards/b88746ad55b249aebd019401b6a24655.png?r=bap" width="340" alt="Rajat_Joshi's Dev Card"/></a>
 
@@ -57,6 +61,12 @@
   ## Trophy:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=18-rajat&show_icons=true&theme=discord" alt="18-rajat" /></a> </p>
   
+  
+  ## About:
+  ![Top Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=18-RAJAT&theme=vue)
+  
+  ## Streak:
+  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=18-RAJAT&theme=holi-theme)](https://git.io/streak-stats)
 
 
@@ -79,3 +89,5 @@
   
   | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=18-RAJAT&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfengcs88&theme=github_dark&layout=compact&hide_border=true" /></a> |
  -->
+  
+
