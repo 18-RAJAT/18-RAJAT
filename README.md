@@ -42,7 +42,7 @@
  
  
  
- ## 👩‍💻 Languages
+ ## ⚛️ Languages
  
  ![Top Graph](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
  ![Top Graph](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -51,13 +51,13 @@
  ![Top Graph](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![Top Graph](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
  
- ## 💻 OS
+<!--  ## 💻 OS
  
  ![Top Graph](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+ -->
 
-
-## 👨 Social
+## 👻 Social
 
  ![Top Graph](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![Top Graph](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
@@ -73,7 +73,7 @@
    ![Top Graph](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
  
 
-## 🌐 Web Browsers and  Workspace
+## 👨‍💻 Workspace
 
 ![Top Graph](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![Top Graph](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
