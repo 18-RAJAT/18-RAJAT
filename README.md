@@ -5,12 +5,12 @@
 <!-- 
 %23808080 -->
 
+
+![20220309_132002](https://user-images.githubusercontent.com/78920780/157402531-dcc98a27-a913-453f-a412-9a32096282b5.jpg)
+
 <!-- 
-![20220309_132002](https://user-images.githubusercontent.com/78920780/157402531-dcc98a27-a913-453f-a412-9a32096282b5.jpg) -->
-
-
 ![20220309_132301](https://user-images.githubusercontent.com/78920780/157402895-6dab392c-ff36-4209-850d-061c41643eab.jpg)
-
+ -->
 
 ![Profile views](https://gpvc.arturio.dev/18-RAJAT) 
 
