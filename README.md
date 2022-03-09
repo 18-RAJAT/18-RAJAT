@@ -135,8 +135,10 @@
   
   ## Trophy:
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=18-rajat&show_icons=true&theme=discord" alt="18-rajat" /></a> </p> -->
-  
- ![Top Trophy](https://github-profile-trophy.vercel.app/?username=18-RAJAT)
+
+
+![Top Trophy](https://github-profile-trophy.vercel.app/?username=18-RAJAT&theme=radical-ma&margin-w=15)
+<!--  ![Top Trophy](https://github-profile-trophy.vercel.app/?username=18-RAJAT&theme=onedark) -->
   
   
   ## About:
