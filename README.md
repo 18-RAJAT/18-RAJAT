@@ -2,6 +2,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Rajat joshi
 
+<!-- 
+![20220309_132002](https://user-images.githubusercontent.com/78920780/157402531-dcc98a27-a913-453f-a412-9a32096282b5.jpg) -->
+
+
+![20220309_132301](https://user-images.githubusercontent.com/78920780/157402895-6dab392c-ff36-4209-850d-061c41643eab.jpg)
+
+
 ![Profile views](https://gpvc.arturio.dev/18-RAJAT) 
 
  ![Profile Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F18-RAJAT1212%2Fhit-counter)
