@@ -134,10 +134,12 @@
  -->
   
   ## Trophy:
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=18-rajat&show_icons=true&theme=discord" alt="18-rajat" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=18-rajat&show_icons=true&theme=discord" alt="18-rajat" /></a> </p>
 
 
-![Top Trophy](https://github-profile-trophy.vercel.app/?username=18-RAJAT&theme=radical-ma&margin-w=15)
+<!-- ![Top Trophy](https://github-profile-trophy.vercel.app/?username=18-RAJAT&theme=radical-ma&margin-w=15) -->
+
+
 <!--  ![Top Trophy](https://github-profile-trophy.vercel.app/?username=18-RAJAT&theme=onedark) -->
   
   
@@ -149,13 +151,18 @@
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=18-RAJAT&theme=holi-theme)](https://git.io/streak-stats)
 
 
-
+<!-- 
 ## Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=18-RAJAT&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
   ## GitHub Stats:
   ![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=18-RAJAT&show_icons=true&theme=tokyonight)
-   
+    -->
+    
+    
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=18-RAJAT&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="RAJAT's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18-RAJAT&theme=github_dark&layout=compact&hide_border=true" /></a> |
+
+    
   ## Activity Graph:
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=react-dark)  
 
@@ -164,9 +171,5 @@
 
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-<!--   
-  
-  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=18-RAJAT&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfengcs88&theme=github_dark&layout=compact&hide_border=true" /></a> |
- -->
-  
+
 
