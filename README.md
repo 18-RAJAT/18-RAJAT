@@ -93,8 +93,8 @@
 
 
 
-<!-- ![Top Graph]()
- -->
+<!-- ![Top Graph](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=react-dark)  
+
 
 
 
@@ -163,11 +163,11 @@
    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=18-RAJAT&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="RAJAT's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18-RAJAT&theme=github_dark&layout=compact&hide_border=true" /></a> |
 
     
-  ## Activity Graph:
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=react-dark)  
+<!--   ## Activity Graph:
+[![Rajat's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/18-RAJAT/github-readme-activity-graph)
 
 
-
+ -->
 
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
