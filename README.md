@@ -21,7 +21,7 @@
 <!-- ![Top Langs](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=minimal) -->
 
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **Web-D**
 
 - 🙌 Github **Rajat Joshi**
 
