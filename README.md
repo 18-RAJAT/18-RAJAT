@@ -140,7 +140,7 @@
 
  -->
  
- ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+ ![Alt Text](https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif )
  
   
   ## Trophy:
