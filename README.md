@@ -23,7 +23,7 @@
 <!-- ![Top Langs](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=minimal) -->
 
 
-- 🌱 I’m currently learning **CSS**
+- 🌱 I’m currently Working on **CP**
 
 - 🙌 Github **Rajat Joshi**
 
