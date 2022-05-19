@@ -19,7 +19,7 @@
  ![Profile Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F18-RAJAT1212%2Fhit-counter)
 
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=815AD4=&size=20&width=800&duration=6969&lines=JUST+LEETCODE+CP+THESE+DAYS)](https://git.io/typing-svg)
 <!-- ![Top Langs](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=minimal) -->
 
 
