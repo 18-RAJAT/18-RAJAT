@@ -1,5 +1,9 @@
 <!-- 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=33F35F=&size=40&width=800&duration=6969&lines=®️+Welcome+to+my+profile)](https://git.io/typing-svg) -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=815AD4=&size=35&width=750&duration=6969&lines=JUST+LEETCODE+THESE+DAYS)](https://git.io/typing-svg)
+
+
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Rajat joshi.
 
 
@@ -18,8 +22,6 @@
 
  ![Profile Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F18-RAJAT1212%2Fhit-counter)
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=815AD4=&size=35&width=750&duration=6969&lines=JUST+LEETCODE+THESE+DAYS)](https://git.io/typing-svg)
 <!-- ![Top Langs](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=minimal) -->
 
 
