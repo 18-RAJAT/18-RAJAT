@@ -178,7 +178,7 @@
   ## Activity Graph:
 <!-- [![Rajat's github activity graph](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=react-dark)](https://github.com/18-RAJAT/github-readme-activity-graph) -->
 
- ![Top Graph](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=minimal)
+ ![Top Graph](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=react-dark)
 
 
 
