@@ -63,6 +63,7 @@
  ![Top Graph](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  ![Top Graph](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Top Graph](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Top Graph](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Top Graph](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 <!--   ![Top Graph](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) -->
  
@@ -175,7 +176,9 @@
 
     
   ## Activity Graph:
-[![Rajat's github activity graph](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=react-dark)](https://github.com/18-RAJAT/github-readme-activity-graph)
+<!-- [![Rajat's github activity graph](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=react-dark)](https://github.com/18-RAJAT/github-readme-activity-graph) -->
+
+ ![Top Graph](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=minimal)
 
 
 
