@@ -5,11 +5,21 @@
 
 
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Rajat joshi.
+<!-- 
 
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in) -->
 <!-- 
 %23808080 -->
+<!-- 
+### ✍️Random Dev Quote -->
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!-- 
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+ -->
+---
+<!-- [![](https://visitcount.itsvg.in/api?id=18-RAJAT&icon=6&color=1)](https://visitcount.itsvg.in) -->
 
 <!-- 
 ![20220309_132002](https://user-images.githubusercontent.com/78920780/157402531-dcc98a27-a913-453f-a412-9a32096282b5.jpg) -->
