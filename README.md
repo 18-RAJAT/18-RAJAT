@@ -3,6 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=0ACDFC=&size=35&width=750&duration=6969&lines=JUST+CP+THESE+DAYS.....!!)](https://git.io/typing-svg)
 
+<a href="https://app.daily.dev/Rajat_joshi"><img src="https://api.daily.dev/devcards/b88746ad55b249aebd019401b6a24655.png?r=ryg" width="400" alt="Rajat_Joshi's Dev Card"/></a>
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=0ACDFC=&size=35&width=750&duration=6969&lines=Hi+there+,I'm+Rajat Joshi)](https://git.io/typing-svg) -->
 
