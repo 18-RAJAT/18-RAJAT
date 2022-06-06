@@ -6,8 +6,6 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=0ACDFC=&size=35&width=750&duration=6969&lines=Hi+there+,I'm+Rajat Joshi)](https://git.io/typing-svg) -->
 
-<a href="https://app.daily.dev/Rajat_joshi"><img src="https://api.daily.dev/devcards/b88746ad55b249aebd019401b6a24655.png?r=ryg" width="400" alt="Rajat_Joshi's Dev Card"/></a>
-
 
 
 <!-- # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/"width="30px"> Hi there, I'm Rajat joshi. -->
@@ -16,9 +14,9 @@
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in) -->
 <!-- 
 %23808080 -->
-<!-- 
-### ✍️Random Dev Quote -->
-<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) -->
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <!-- 
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
@@ -155,7 +153,10 @@
 
 
  -->
- 
+
+<a href="https://app.daily.dev/Rajat_joshi"><img src="https://api.daily.dev/devcards/b88746ad55b249aebd019401b6a24655.png?r=ryg" width="400" alt="Rajat_Joshi's Dev Card"/></a>
+
+
  ![Alt Text](https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif )
  
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=18-rajat&show_icons=true&theme=discord" alt="18-rajat" /></a> </p>
