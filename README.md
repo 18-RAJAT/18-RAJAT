@@ -14,13 +14,14 @@
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in) -->
 <!-- 
 %23808080 -->
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <!-- 
-### 😂Random Dev Meme
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) -->
+<!-- 
+### 😂Random Dev Meme  -->
+
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
- -->
+
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=18-RAJAT&icon=6&color=1)](https://visitcount.itsvg.in) -->
 
