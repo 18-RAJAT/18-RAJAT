@@ -3,6 +3,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=0ACDFC=&size=35&width=750&duration=6969&lines=JUST+CP+THESE+DAYS.....!!)](https://git.io/typing-svg)
 
+<!-- <p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Rajat👋  🚀 Just  CP❤️these days ❤️">
+</p> -->
+
+
+<!-- 
+<a href="https://skyline.github.com/br3ndonland/2021" title="2021 GitHub Skyline"><img src="https://user-images.githubusercontent.com/26674818/162868221-339ea6d5-d218-4b22-91c8-7045ed31d81e.png" alt="2020 GitHub Skyline" width="50%" /></a> -->
+
+
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=0ACDFC=&size=35&width=750&duration=6969&lines=Hi+there+,I'm+Rajat Joshi)](https://git.io/typing-svg) -->
 
@@ -20,7 +29,7 @@
 <!-- 
 ### 😂Random Dev Meme  -->
 
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<!-- <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=18-RAJAT&icon=6&color=1)](https://visitcount.itsvg.in) -->
@@ -31,6 +40,24 @@
 <!-- 
 ![20220309_132301](https://user-images.githubusercontent.com/78920780/157402895-6dab392c-ff36-4209-850d-061c41643eab.jpg)
  -->
+
+
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```text
+C++          13 hrs 45 mins  ████████████████████▓░░░░   82.87 %
+Amazon_SDE   2 hrs 3 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+LeetCode/CP  4 hrs 3 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+WebDev       1 hrs 1 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Other        1 hrs           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+```
+
+<!--END_SECTION:waka-->
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
 
 ![Profile views](https://gpvc.arturio.dev/18-RAJAT) 
 
@@ -158,7 +185,7 @@
 <a href="https://app.daily.dev/Rajat_joshi"><img src="https://api.daily.dev/devcards/b88746ad55b249aebd019401b6a24655.png?r=ryg" width="400" alt="Rajat_Joshi's Dev Card"/></a>
 
 
- ![Alt Text](https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif )
+<!--  ![Alt Text](https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif ) -->
  
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=18-rajat&show_icons=true&theme=discord" alt="18-rajat" /></a> </p>
  -->
@@ -175,11 +202,20 @@
   ## About:
   ![Top Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=18-RAJAT&theme=vue)
   
-  
+<!--   
   ## Streak:
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=18-RAJAT&theme=holi-theme)](https://git.io/streak-stats)
+  -->
  
+<div align="center">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=18-RAJAT&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rajat's Github Stats">
+</div>
  
+<!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=18-RAJAT&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rajat's Github Stats"> -->
+
+
+
 <!--    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=18-RAJAT&theme=react) -->
  
 
