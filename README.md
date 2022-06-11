@@ -47,7 +47,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C++          13 hrs 45 mins  ████████████████████▓░░░░   82.87 %
+DSA         13 hrs 45 mins   ████████████████████▓░░░░   82.87 %
 Amazon_SDE   2 hrs 3 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
 LeetCode/CP  4 hrs 3 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
 WebDev       1 hrs 1 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
@@ -181,8 +181,6 @@ Other        1 hrs           ▒░░░░░░░░░░░░░░░░
 
 
  -->
-
-<a href="https://app.daily.dev/Rajat_joshi"><img src="https://api.daily.dev/devcards/b88746ad55b249aebd019401b6a24655.png?r=ryg" width="400" alt="Rajat_Joshi's Dev Card"/></a>
 
 
 <!--  ![Alt Text](https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif ) -->
