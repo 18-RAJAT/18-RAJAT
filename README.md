@@ -2,8 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=33F35F=&size=40&width=800&duration=6969&lines=®️+Welcome+to+my+profile)](https://git.io/typing-svg) -->
 
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=0ACDFC=&size=35&width=750&duration=6969&lines=JUST+CP+THESE+DAYS.....!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=0A20FC=&size=35&width=750&duration=6969&lines=JUST+CP+THESE+DAYS.....!!)](https://git.io/typing-svg)
 
 <!-- <p align="center">
   <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Rajat👋  🚀 Just  CP❤️these days ❤️">
@@ -44,21 +43,22 @@
  -->
 
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-📊 **this week i spent my time on:**
+
+
+📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
 
 ```text
-DSA         13 hrs 45 mins   ████████████████████▓░░░░   82.87 %
+Algorithm    13 hrs 45 mins  ████████████████████▓░░░░   82.87 %
 Amazon_SDE   2 hrs 3 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
 LeetCode/CP  4 hrs 3 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-WebDev       1 hrs 1 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Development  1 hrs 1 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 Other        1 hrs           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
 
 <!--END_SECTION:waka-->
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
 
 
 ![Profile views](https://gpvc.arturio.dev/18-RAJAT) 
