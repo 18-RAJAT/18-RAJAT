@@ -216,10 +216,10 @@ Other        1 hrs           ▒░░░░░░░░░░░░░░░░
   
   
  
-<!-- <div align="center">
+<div align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=18-RAJAT&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rajat's Github Stats">
-</div> -->
+</div>
 
 
 
@@ -236,9 +236,14 @@ Other        1 hrs           ▒░░░░░░░░░░░░░░░░
 <!--    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=18-RAJAT&theme=react) -->
  
  
- 
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=18-RAJAT&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18-RAJAT&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<!--  
+<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=18-RAJAT&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
 
+
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18-RAJAT&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+ 
+ 
+ 
 
 <!-- (https://github.com/18-RAJAT/github-readme-activity-graph)
  -->
@@ -249,9 +254,10 @@ Other        1 hrs           ▒░░░░░░░░░░░░░░░░
  
  
 
-<!-- 
-## Top Languages:
+<!-- ## Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=18-RAJAT&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+   -->
+  <!-- 
 
   ## GitHub Stats:
   ![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=18-RAJAT&show_icons=true&theme=tokyonight)
