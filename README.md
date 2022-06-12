@@ -293,3 +293,7 @@ Other        1 hrs           ▒░░░░░░░░░░░░░░░░
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
+
+
+
+![snake gif](https://github.com/18-RAJAT/18-RAJAT/blob/output/github-contribution-grid-snake.gif)
