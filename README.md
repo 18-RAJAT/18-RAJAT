@@ -265,10 +265,31 @@ Other        1 hrs           ▒░░░░░░░░░░░░░░░░
 <!-- 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg) -->
 
-
- Last Updated on 11/06/2022 16:59:58 UTC
+<!-- 
+ Last Updated on 11/06/2022 16:59:58 UTC -->
 <!--END_SECTION:waka-->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p> -->
+
+
+
+
+
+
+<h2 align="center">🤝 Support</h2>
+
+<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+<!-- 
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p> -->
+
+ </p>
+<!-- <p align="center">Made with ❤️ in India</p> -->
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
+
