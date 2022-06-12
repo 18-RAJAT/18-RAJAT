@@ -251,7 +251,7 @@ Other        1 hrs           ▒░░░░░░░░░░░░░░░░
  -->
  
  ## Graph:
- ![Top Graph](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=react-dark)
+ ![Top Graph](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=redical)
  
  
  
