@@ -266,3 +266,9 @@ Other        1 hrs           ▒░░░░░░░░░░░░░░░░
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg) -->
 
 
+ Last Updated on 11/06/2022 16:59:58 UTC
+<!--END_SECTION:waka-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
