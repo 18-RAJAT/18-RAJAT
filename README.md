@@ -68,7 +68,7 @@ Other        5 hrs           ▒░░░░░░░░░░░░░░░░
 <!-- ![Top Langs](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=minimal) -->
 
 
-- 🌱 I’m currently learning **WEB-**
+- 🌱 I’m currently learning **CP**
 
 - 🙌 Github **Rajat Joshi**
 
