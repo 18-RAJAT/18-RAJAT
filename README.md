@@ -99,7 +99,6 @@ Other        5 hrs           ▒░░░░░░░░░░░░░░░░
 #define BITMASK_FLIP(x, mask) ((x) ^= (mask))
 #define BITMASK_CHECK_ALL(x, mask) (!(~(x) & (mask)))
 #define BITMASK_CHECK_ANY(x, mask) ((x) & (mask))
-}
 ```
  
  
