@@ -82,6 +82,27 @@ Other        5 hrs           ▒░░░░░░░░░░░░░░░░
 <a href="https://app.daily.dev/Rajat_joshi"><img src="https://api.daily.dev/devcards/b88746ad55b249aebd019401b6a24655.png?r=bap" width="340" alt="Rajat_Joshi's Dev Card"/></a>
 
  -->
+ 
+ 
+ 
+```javascript
+/* a=target variable, b=bit number to act upon 0-n */
+#define BIT_SET(a,b) ((a) |= (1ULL<<(b)))
+#define BIT_CLEAR(a,b) ((a) &= ~(1ULL<<(b)))
+#define BIT_FLIP(a,b) ((a) ^= (1ULL<<(b)))
+
+// '!!' to make sure this returns 0 or 1
+#define BIT_CHECK(a,b) (!!((a) & (1ULL<<(b))))
+
+#define BITMASK_SET(x, mask) ((x) |= (mask))
+#define BITMASK_CLEAR(x, mask) ((x) &= (~(mask)))
+#define BITMASK_FLIP(x, mask) ((x) ^= (mask))
+#define BITMASK_CHECK_ALL(x, mask) (!(~(x) & (mask)))
+#define BITMASK_CHECK_ANY(x, mask) ((x) & (mask))
+}
+```
+ 
+ 
 ## 👩‍💻 IDE 
 ![Top Graph](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Top Graph](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
