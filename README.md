@@ -86,6 +86,8 @@ Other        5 hrs           ▒░░░░░░░░░░░░░░░░
  
  
 ```javascript
+Those who cannot remember the past are condemned to repeat it
+
 /* a=target variable, b=bit number to act upon 0-n */
 #define BIT_SET(a,b) ((a) |= (1ULL<<(b)))
 #define BIT_CLEAR(a,b) ((a) &= ~(1ULL<<(b)))
