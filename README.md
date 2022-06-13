@@ -51,11 +51,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Algorithm    13 hrs 45 mins  ████████████████████▓░░░░   82.87 %
-Amazon_SDE   2 hrs 3 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
-LeetCode/CP  4 hrs 3 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-Development  1 hrs 1 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-Other        1 hrs           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+CF/LC        9 hrs 45 mins   ████████████████████▓░░░░   82.87 %
+Amazon_SDE   8 hrs 3 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+Algorithm    7 hrs 3 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Development  3 hrs 1 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Other        5 hrs           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
 
 <!--END_SECTION:waka-->
