@@ -305,3 +305,20 @@ Other        5 hrs           ▒░░░░░░░░░░░░░░░░
 
 
 ![snake gif](https://github.com/18-RAJAT/18-RAJAT/blob/output/github-contribution-grid-snake.gif)
+
+
+
+
+
+
+
+
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://guilyx.vercel.app/api/top-played">
+</p>
