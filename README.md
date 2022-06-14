@@ -228,19 +228,18 @@ return 0;
   
   
   
-  
-  
-  
-  <hr/>
-  <br/>
+ 
   
  
-<div align="center">
+<p align="left">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=18-RAJAT&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rajat's Github Stats">
-</div>
+<img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=18-RAJAT&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rajat's Github Stats">
+  
+  <a href="https://github.com/18-RAJAT">
+  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18-RAJAT&layout=compact&&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
+</a>
+    </p>
 
-<br/>
 
 
 
@@ -335,5 +334,4 @@ return 0;
 <p align="center">
   <img src="https://guilyx.vercel.app/api/top-played">
 </p>
-
 
