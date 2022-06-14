@@ -219,7 +219,7 @@ return 0;
   
   
   ## About:
-  ![Top Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=18-RAJAT&theme=vue)
+  ![Top Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=18-RAJAT&theme=tokyonight&line_height=27&title_color=FFFFFF")
   
 <!--   
   ## Streak:
