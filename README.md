@@ -220,17 +220,13 @@ return 0;
   
   ## About:
   ![Top Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=18-RAJAT&theme=tokyonight&line_height=27&title_color=FFFFFF")
-  
-<!--   
+
+
+
   ## Streak:
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=18-RAJAT&theme=holi-theme)](https://git.io/streak-stats)
-  -->
-  
-  
-  
- 
-  
- 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=18-RAJAT&theme=github-dark-blue&bg_color=0,000000,130F40)](https://git.io/streak-stats)
+
+
 <p align="left">
 
 <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=18-RAJAT&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rajat's Github Stats">
@@ -241,9 +237,7 @@ return 0;
     </p>
 
 
-
-
-
+  
  
 <!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=18-RAJAT&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rajat's Github Stats"> -->
 
