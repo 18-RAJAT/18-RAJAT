@@ -3,6 +3,7 @@
 
 
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=7E55F4=&size=35&width=750&duration=6969&lines=JUST+CP+THESE+DAYS.....!!)](https://git.io/typing-svg)
 
 <!-- <p align="center">
