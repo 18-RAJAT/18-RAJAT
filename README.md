@@ -216,7 +216,7 @@ return 0;
 
   ## Trophy:
 
- ![Top Trophy](https://github-profile-trophy.vercel.app/?username=18-RAJAT&theme=radical-ma&margin-w=15) 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=18-RAJAT&theme)](https://github.com/ryo-ma/github-profile-trophy) 
 
   
   
