@@ -206,6 +206,7 @@ return 0;
 
 
  -->
+ 
 
 
 <!--  ![Alt Text](https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif ) -->
@@ -216,12 +217,7 @@ return 0;
 <!--  ![Top Trophy](https://github-profile-trophy.vercel.app/?username=18-RAJAT&theme=onedark) -->
 
 
-  ## Trophy:
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=18-RAJAT&theme)](https://github.com/ryo-ma/github-profile-trophy) 
-
-  
-  
   ## About:
   ![Top Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=18-RAJAT&theme=tokyonight&line_height=27&title_color=FFFFFF")
 
