@@ -256,7 +256,7 @@ return 0;
  -->
  
  ## Graph:
- ![Top Graph](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=redical)
+ ![Top Graph](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=react-dark)
  
  
  
