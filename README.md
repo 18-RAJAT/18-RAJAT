@@ -2,8 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=33F35F=&size=40&width=800&duration=6969&lines=®️+Welcome+to+my+profile)](https://git.io/typing-svg) -->
 
 
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=fc7703=&size=35&width=750&duration=6969&lines=JUST+CP+THESE+DAYS.....!!)](https://git.io/typing-svg)
 
 <!-- <p align="center">
