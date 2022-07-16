@@ -47,6 +47,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">
 
 📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
@@ -210,7 +211,6 @@ return 0;
 
  -->
  
-
 
 <!--  ![Alt Text](https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif ) -->
  
