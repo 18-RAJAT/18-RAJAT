@@ -1,7 +1,7 @@
 <!-- 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=33F35F=&size=40&width=800&duration=6969&lines=®️+Welcome+to+my+profile)](https://git.io/typing-svg) -->
 
-
+<!-- # JUST CP THESE DAYS&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">-->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=fc7703=&size=35&width=750&duration=6969&lines=JUST+CP+THESE+DAYS.....!!)](https://git.io/typing-svg)
 
@@ -298,16 +298,16 @@ return 0;
 
 
 
-<h2 align="center">🤝 Support</h2>
+<!-- <h2 align="center">🤝 Support</h2>
 
 <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
-<!-- 
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p> -->
+
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p> 
 
  </p>
-<!-- <p align="center">Made with ❤️ in India</p> -->
+ <p align="center">Made with ❤️ in India</p>
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>-->
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
@@ -320,6 +320,12 @@ return 0;
 
 
 
+
+<br>
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+
+<br>
 
 
 
