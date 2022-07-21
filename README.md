@@ -71,7 +71,7 @@ Other        5 hrs           ▒░░░░░░░░░░░░░░░░
 
 <!-- ![Top Langs](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=minimal) -->
 
-<!--
+
 - 🌱 I’m currently learning **CP**
 
 - 🙌 Github **Rajat Joshi**
@@ -81,8 +81,9 @@ Other        5 hrs           ▒░░░░░░░░░░░░░░░░
 - 📫 How to reach me **Rajatjoshi7535@gmail.com**
 
 - ⚡ Fun fact 🙌 **Those who cannot remember the past are condemned to repeat it.**
- -->
 
+
+<!--
 <br>
 
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
@@ -93,7 +94,7 @@ Other        5 hrs           ▒░░░░░░░░░░░░░░░░
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
 
 
-<br>
+<br>-->
 
 <!-- <h3 align="right"></h3>
 <a href="https://app.daily.dev/Rajat_joshi"><img src="https://api.daily.dev/devcards/b88746ad55b249aebd019401b6a24655.png?r=bap" width="340" alt="Rajat_Joshi's Dev Card"/></a>
