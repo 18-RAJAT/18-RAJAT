@@ -226,6 +226,8 @@ return 0;
   ## About:
   ![Top Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=18-RAJAT&theme=tokyonight&line_height=27&title_color=FFFFFF")
 
+## Graph:
+ ![Top Graph](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=gotham)
 
 
   ## Streak:
@@ -259,10 +261,6 @@ return 0;
   -->
 <!-- (https://github.com/18-RAJAT/github-readme-activity-graph)
  -->
-<!--  
- ## Graph:
- ![Top Graph](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=react-dark)
-  -->
  
  
 
