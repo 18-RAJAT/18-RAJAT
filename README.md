@@ -9,11 +9,10 @@
   <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Rajat👋  🚀 Just  CP❤️these days ❤️">
 </p> -->
 
-
 <!-- 
 <a href="https://skyline.github.com/br3ndonland/2021" title="2021 GitHub Skyline"><img src="https://user-images.githubusercontent.com/26674818/162868221-339ea6d5-d218-4b22-91c8-7045ed31d81e.png" alt="2020 GitHub Skyline" width="50%" /></a> -->
-
-
+ -->
+ 
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=0ACDFC=&size=35&width=750&duration=6969&lines=Hi+there+,I'm+Rajat Joshi)](https://git.io/typing-svg) -->
 
@@ -46,6 +45,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+<a href="https://app.daily.dev/Rajat_joshi"><img src="https://api.daily.dev/devcards/b88746ad55b249aebd019401b6a24655.png?r=8sh" width="300" alt="Rajat_Joshi's Dev Card"/></a>
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">
 
