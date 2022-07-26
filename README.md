@@ -61,7 +61,6 @@ Algorithm    1 hrs 5 mins    █░░░░░░░░░░░░░░░░
 Development  1 hrs 1 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   5.25 %
 Other        5 hrs           ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.76 %
 ```
-
 <!--END_SECTION:waka-->
 
 
