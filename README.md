@@ -9,6 +9,7 @@
   <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Rajat👋  🚀 Just  CP❤️these days ❤️">
 </p> -->
 
+
 <!-- 
 <a href="https://skyline.github.com/br3ndonland/2021" title="2021 GitHub Skyline"><img src="https://user-images.githubusercontent.com/26674818/162868221-339ea6d5-d218-4b22-91c8-7045ed31d81e.png" alt="2020 GitHub Skyline" width="50%" /></a> -->
  
@@ -224,12 +225,36 @@ return 0;
 
 
   ## About:
-  ![Top Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=18-RAJAT&theme=tokyonight&line_height=27&title_color=FFFFFF")
+  
+  
+<p align="center">
+<a href="https://github.com/pulls?q=is%3Apr+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=18-RAJAT&theme=github_dark&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=18-RAJAT&theme=github_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
+</p>
+  
+  
+  
+  
 
 ## Graph:
- ![Top Graph](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=gotham)
+ <p align="center">
+    <a href="https://wakatime.com/@Voko">
+        <img src="https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
 
 
+
+
+<p align="center">
+<a href="https://github.com/Aleksey-Voko?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=18-RAJAT&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Voko's github-readme-stats"/></a>
+<a href="https://github.com/Aleksey-Voko?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=18-RAJAT&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Voko's github-readme-streak-stats"/></a>
+</p>
+
+
+
+
+<!-- 
   ## Streak:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=18-RAJAT&theme=github-dark-blue&bg_color=0,000000,130F40)](https://git.io/streak-stats)
 
@@ -244,7 +269,7 @@ return 0;
     </p>
 
 
-  
+  -->
  
 <!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=18-RAJAT&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rajat's Github Stats"> -->
 
