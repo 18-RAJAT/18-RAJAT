@@ -1,9 +1,21 @@
+<p align="center"><img src="animation.gif" width="35%"></p>
+<div style=" font-size: medium; color: #447ff7" align=center>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=+JUST+CP+THESE+DAYS+.....!!+%F0%9F%91%8B%F0%9F%8F%BB;competitive+programmer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;i'm+currently+pursuing+B.TECH+CSE+%F0%9F%93%88;In+building+Frontend+infrastructures+%E2%9A%99%EF%B8%8F" alt="Rajat Joshi" width="650" height="55">
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<p>
+
+
+
+
 <!-- 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=33F35F=&size=40&width=800&duration=6969&lines=®️+Welcome+to+my+profile)](https://git.io/typing-svg) -->
 
 <!-- # JUST CP THESE DAYS&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">-->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=3d5ad1=&size=35&width=750&duration=6969&lines=JUST+CP+THESE+DAYS.....!!)](https://git.io/typing-svg)
+<!-- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=3d5ad1=&size=35&width=750&duration=6969&lines=JUST+CP+THESE+DAYS.....!!)](https://git.io/typing-svg) -->
 
 <!-- <p align="center">
   <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Rajat👋  🚀 Just  CP❤️these days ❤️">
@@ -223,8 +235,12 @@ return 0;
 <!--  ![Top Trophy](https://github-profile-trophy.vercel.app/?username=18-RAJAT&theme=onedark) -->
 
 
-  ## About:
+ 
   
+  
+  
+ 
+ 
   
 <p align="center">
 <a href="https://github.com/pulls?q=is%3Apr+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=18-RAJAT&theme=github_dark&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
@@ -351,8 +367,21 @@ return 0;
 <br>
 
 
+<br />
+
+---
 
 
+
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+<br/>
+---
+
+
+
+<!--
 
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&redirect=true">
@@ -364,3 +393,4 @@ return 0;
   <img src="https://guilyx.vercel.app/api/top-played">
 </p>
 
+-->
