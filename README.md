@@ -9,7 +9,6 @@
   <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Rajat👋  🚀 Just  CP❤️these days ❤️">
 </p> -->
 
-
 <!-- 
 <a href="https://skyline.github.com/br3ndonland/2021" title="2021 GitHub Skyline"><img src="https://user-images.githubusercontent.com/26674818/162868221-339ea6d5-d218-4b22-91c8-7045ed31d81e.png" alt="2020 GitHub Skyline" width="50%" /></a> -->
  
@@ -251,6 +250,9 @@ return 0;
 <a href="https://github.com/Aleksey-Voko?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=18-RAJAT&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Voko's github-readme-streak-stats"/></a>
 </p>
 
+
+
+![Rajat's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=18-RAJAT&theme=gotham&layout=compact&langs_count=8&hide_border=true)
 
 
 
