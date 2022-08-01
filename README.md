@@ -63,16 +63,16 @@
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">
 
-📊 **This week i spent my time on:**
+<!-- 📊 **This week i spent my time on:** -->
 <!--START_SECTION:waka-->
 
-```text
+<!-- ```text
 CF/LC        8 hrs 30 mins   ████████████████████▓░░░░   70.87 %
 Amazon_SDE   2 hrs 22 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   20.18 %
 Algorithm    1 hrs 5 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   10.40 %
 Development  1 hrs 1 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   5.25 %
 Other        5 hrs           ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.76 %
-```
+``` -->
 <!--END_SECTION:waka-->
 
 
