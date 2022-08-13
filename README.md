@@ -4,7 +4,8 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=+JUST+CP+THESE+DAYS+.....!!" alt="Rajat Joshi" width="650" height="55">
 
-
+  
+  
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <p>
