@@ -2,7 +2,7 @@
 
 <div style=" font-size: medium; color: #447ff7" align=center>
 
- 
+
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=+JUST+CP+THESE+DAYS+.....!!" alt="Rajat Joshi" width="650" height="55">
 
