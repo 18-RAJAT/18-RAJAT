@@ -311,6 +311,35 @@ return 0;
  -->
  
  
+  
+  
+  
+  
+  
+  
+<!--    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeonardoHetx&repo=TechNew-Informatica-WS&title_color=C0ACFF&text_color=C0ACFF&bg_color=10,6b3eff,22272E,22272E&icon_color=6B3EFFF&hide_border=true)](https://github.com/18-RAJAT/sass-landing-css.maps)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeonardoHetx&repo=TIC-TAC-TOE&title_color=C0ACFF&text_color=C0ACFF&bg_color=10,6b3eff,22272E,22272E&icon_color=6B3EFFF&hide_border=true)](https://github.com/LeonardoHetx/TIC-TAC-TOE)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeonardoHetx&repo=Cristal-Imoveis-WS&title_color=C0ACFF&text_color=C0ACFF&bg_color=10,22272E,22272E,6b3eff&icon_color=6B3EFF&hide_border=true)](https://github.com/LeonardoHetx/Cristal-Imoveis-WS)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeonardoHetx&repo=30-DAYS-CSS&title_color=C0ACFF&text_color=C0ACFF&bg_color=10,22272E,22272E,6b3eff&icon_color=6B3EFF&hide_border=true)](https://github.com/LeonardoHetx/30-DAYS-CSS)
+ 
+</div> -->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=150&section=footer)
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 <!-- ## Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=18-RAJAT&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -353,9 +382,9 @@ return 0;
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>-->
 
-<p align="center">
+<!-- <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+</p> -->
 
 
 
@@ -401,4 +430,3 @@ return 0;
 
 -->
 
-  
