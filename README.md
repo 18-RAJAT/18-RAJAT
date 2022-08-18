@@ -111,21 +111,9 @@ Other        5 hrs           ▒░░░░░░░░░░░░░░░░
  
 ```javascript
 
-#define BITMASK_SET(x, mask) ((x) |= (mask))
-#define BITMASK_CLEAR(x, mask) ((x) &= (~(mask)))
-#define BITMASK_FLIP(x, mask) ((x) ^= (mask))
-#define BITMASK_CHECK_ALL(x, mask) (!(~(x) & (mask)))
-#define BITMASK_CHECK_ANY(x, mask) ((x) & (mask))
-#include <bits/stdc++.h>  
-
-using namespace std;  
-int main()  
-{  
 ios_base::sync_with_stdio(false);  
 cin.tie(NULL);
-cout<<"Just CP These days"<<"\n";
-return 0;  
-}  
+
 ```
  
  
