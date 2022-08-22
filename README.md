@@ -7,7 +7,7 @@
  ![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=Rajat%20Joshi&desc=Welcome%20To%20My%20GitHub%20Profile&fontColor=22272E&fontSize=90&fontAlignY=38&descAlignY=53&descAlign=70.5)
     
  
- 
+
  
  
   <!-- 
@@ -91,7 +91,7 @@ Other        5 hrs           ▒░░░░░░░░░░░░░░░░
 <!-- ![Top Langs](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=minimal) -->
 
 
-- 🌱 I’m currently doing **CP**
+- 🌱 I’m currently doing **Chart**
 
 - 🙌 Github **Rajat Joshi**
 
@@ -110,6 +110,7 @@ Other        5 hrs           ▒░░░░░░░░░░░░░░░░
 
  
 ```javascript
+
 
 ios_base::sync_with_stdio(false);  
 cin.tie(NULL);
@@ -167,7 +168,6 @@ cin.tie(NULL);
   ![Top Graph](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
   ![Top Graph](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)
   ![Top Graph](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
- 
  
  
 <!--  
