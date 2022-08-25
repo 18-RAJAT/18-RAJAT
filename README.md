@@ -89,10 +89,10 @@ Other        5 hrs           ▒░░░░░░░░░░░░░░░░
 
  ![Profile Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F18-RAJAT1212%2Fhit-counter)
 
-<!-- ![Top Langs](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=minimal) -->
+<!-- ![Top Langs](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=minimal) 
 
 
-- 🌱 I’m currently doing **Chart**
+- 🌱 I’m currently doing **Chart** -->
 
 - 🙌 Github **Rajat Joshi**
 
