@@ -2,7 +2,7 @@
  
 <div style=" font-size: medium; color: #447ff7" align=center>
          
-  
+      
  ![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=Rajat%20Joshi&desc=Welcome%20To%20My%20GitHub%20Profile&fontColor=22272E&fontSize=90&fontAlignY=38&descAlignY=53&descAlign=70.5)
    
         
@@ -15,7 +15,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <p>
  
-    
+     
 <!-- 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=33F35F=&size=40&width=800&duration=6969&lines=®️+Welcome+to+my+profile)](https://git.io/typing-svg) -->
 
@@ -26,6 +26,7 @@
 <!-- <p align="center">
   <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Rajat👋  🚀 Just  CP❤️these days ❤️">
 </p> -->
+
 
 <!-- 
 <a href="https://skyline.github.com/br3ndonland/2021" title="2021 GitHub Skyline"><img src="https://user-images.githubusercontent.com/26674818/162868221-339ea6d5-d218-4b22-91c8-7045ed31d81e.png" alt="2020 GitHub Skyline" width="50%" /></a> -->
