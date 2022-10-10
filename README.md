@@ -1,7 +1,7 @@
 <p align="center"><img src="animation.gif" width="35%"></p>
  
 <div style=" font-size: medium; color: #447ff7" align=center>
-         
+             
        
  ![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=Rajat%20Joshi&desc=Welcome%20To%20My%20GitHub%20Profile&fontColor=22272E&fontSize=90&fontAlignY=38&descAlignY=53&descAlign=70.5)
    
@@ -22,7 +22,7 @@
 <!-- # JUST CP THESE DAYS&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">-->
 <!-- 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=3d5ad1=&size=35&width=750&duration=6969&lines=JUST+CP+THESE+DAYS.....!!)](https://git.io/typing-svg) -->
-  
+   
 <!-- <p align="center">
   <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Rajat👋  🚀 Just  CP❤️these days ❤️">
 </p> -->
