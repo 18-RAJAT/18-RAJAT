@@ -23,7 +23,7 @@
 <!-- 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=3d5ad1=&size=35&width=750&duration=6969&lines=JUST+CP+THESE+DAYS.....!!)](https://git.io/typing-svg) -->
    
- 
+  
 <!-- <p align="center">
   <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Rajat👋  🚀 Just  CP❤️these days ❤️">
 </p> -->
