@@ -252,11 +252,7 @@ cin.tie(NULL);
   
   
   
- <p align="center">
-    <a href="https://wakatime.com/@Voko">
-        <img src="https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-</p>
+
 
 
 
@@ -384,9 +380,6 @@ cin.tie(NULL);
 
 
 
-![snake gif](https://github.com/18-RAJAT/18-RAJAT/blob/output/github-contribution-grid-snake.gif)
-
-
 
 <!--
 <br>
@@ -402,14 +395,6 @@ cin.tie(NULL);
 ---
 
 
-
-### Now Playing 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
-<br/>
----
-
-<img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img  src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" />
 
 <!--
 
