@@ -1,7 +1,6 @@
 <p align="center"><img src="animation.gif" width="35%"></p>
 
 
-
 <div style=" font-size: medium; color: #447ff7" align=center> 
                             
   ![header](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png)
