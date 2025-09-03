@@ -1,6 +1,6 @@
 <p align="center"><img src="animation.gif" width="35%"></p> 
          
-<div style=" font-size: medium; color: #447ff7" align=center>  
+<div style=" font-size: medium; color: #447ff7" align=center>   
                                  
   ![header](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png)
  ![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=Rajat%20Joshi&desc=Welcome%20To%20My%20GitHub%20Profile&fontColor=22272E&fontSize=90&fontAlignY=38&descAlignY=53&descAlign=70.5) 
