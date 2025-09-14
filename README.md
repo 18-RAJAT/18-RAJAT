@@ -75,8 +75,10 @@
 
 <!-- <a href="https://app.daily.dev/Rajat_joshi"><img src="https://api.daily.dev/devcards/b88746ad55b249aebd019401b6a24655.png?r=8sh" width="300" alt="Rajat_Joshi's Dev Card"/></a> -->
 
-
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">
+<div align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=007cf0&center=false&vCenter=false&lines=Rajat+Joshi" />
+</div>
 
 <!-- 📊 **This week i spent my time on:** -->
 <!--START_SECTION:waka-->
@@ -113,7 +115,7 @@ Other        5 hrs           ▒░░░░░░░░░░░░░░░░
  -->
 
 
- 
+<!--  
 ```javascript
 
 
@@ -121,7 +123,7 @@ ios_base::sync_with_stdio(false);
 cin.tie(NULL);
 
 ```
-
+-->
 <!-- 
  
 
@@ -172,37 +174,6 @@ cin.tie(NULL);
 
 
  
-  
-  
-  
- 
- 
-  
-<p align="center">
-<!--
-<a href="https://github.com/pulls?q=is%3Apr+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=18-RAJAT&theme=github_dark&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
-<a href="https://github.com/issues?q=is%3Aissue+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed"> -->
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=18-RAJAT&theme=github_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
-</p>
-  
-  
-  
-
-
-
-
-
-<p align="center">
-<a href="https://github.com/Aleksey-Voko?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=18-RAJAT&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Voko's github-readme-stats"/></a>
-<a href="https://github.com/Aleksey-Voko?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=18-RAJAT&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Voko's github-readme-streak-stats"/></a>
-</p>
-
-
-
-![Rajat's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=18-RAJAT&theme=gotham&layout=compact&langs_count=8&hide_border=true)
-
-
 
 <!-- 
   ## Streak:
@@ -251,10 +222,6 @@ cin.tie(NULL);
  
 </div> -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=150&section=footer)
-
-  
-  
   
   
   
@@ -328,7 +295,6 @@ cin.tie(NULL);
 
 <br />
 
----
 
 
 
