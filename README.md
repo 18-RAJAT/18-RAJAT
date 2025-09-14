@@ -1,20 +1,21 @@
+<!-- 
 <p align="center"><img src="animation.gif" width="35%"></p> 
          
 <div style=" font-size: medium; color: #447ff7" align=center>   
                                  
   ![header](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png)
  ![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=Rajat%20Joshi&desc=Welcome%20To%20My%20GitHub%20Profile&fontColor=22272E&fontSize=90&fontAlignY=38&descAlignY=53&descAlign=70.5) 
-      
+-->
   <!-- 
  
   <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=+JUST+CP+THESE+DAYS+.....!!" alt="Rajat Joshi" width="650" height="55">  -->
-  
+
+<!-- 
   
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <p>
-  
-       
+-->    
 <!-- 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=33F35F=&size=40&width=800&duration=6969&lines=®️+Welcome+to+my+profile)](https://git.io/typing-svg) -->
  
@@ -50,7 +51,6 @@
 
 <!-- <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
----
 
 <!-- [![](https://visitcount.itsvg.in/api?id=18-RAJAT&icon=6&color=1)](https://visitcount.itsvg.in) -->
 
@@ -60,6 +60,8 @@
 <!-- 
 ![20220309_132301](https://user-images.githubusercontent.com/78920780/157402895-6dab392c-ff36-4209-850d-061c41643eab.jpg)
  -->
+
+ <!-- 
 ## Coding Profiles📈
 
 <span>
@@ -69,8 +71,7 @@
 <a href="https://leetcode.com/log1/">
 <img height="316" src="https://leetcard.jacoblin.cool/log1?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Rajat Leetcode Stats"/>
 </a>
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+-->
 
 <!-- <a href="https://app.daily.dev/Rajat_joshi"><img src="https://api.daily.dev/devcards/b88746ad55b249aebd019401b6a24655.png?r=8sh" width="300" alt="Rajat_Joshi's Dev Card"/></a> -->
 
@@ -89,13 +90,13 @@ Other        5 hrs           ▒░░░░░░░░░░░░░░░░
 ``` -->
 <!--END_SECTION:waka-->
 
-
- ![Profile Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F18-RAJAT1212%2Fhit-counter)
+<!-- 
+ ![Profile Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F18-RAJAT1212%2Fhit-counter) -->
 
 <!-- ![Top Langs](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=minimal) 
 
-
-- 🌱 I’m currently doing **Chart** -->
+<!-- 
+- 🌱 I’m currently doing **Chart**
 
 - 🙌 Github **Rajat Joshi**
 
@@ -105,7 +106,7 @@ Other        5 hrs           ▒░░░░░░░░░░░░░░░░
 
 - ⚡ Fun fact 🙌 **Those who cannot remember the past are condemned to repeat it.**
 
-
+-->
 <!-- <h3 align="right"></h3>
 <a href="https://app.daily.dev/Rajat_joshi"><img src="https://api.daily.dev/devcards/b88746ad55b249aebd019401b6a24655.png?r=bap" width="340" alt="Rajat_Joshi's Dev Card"/></a>
 
@@ -120,79 +121,9 @@ ios_base::sync_with_stdio(false);
 cin.tie(NULL);
 
 ```
+
+<!-- 
  
- 
-## 👩‍💻 IDE 
-![Top Graph](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Top Graph](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
-![Top Graph](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
-![Top Graph](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Top Graph](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-
-<!-- ![Top Graph](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white) -->
-
-
-
-<!--  ![Top Graph](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) -->
- 
- 
- 
- ## LANGUAGES
- 
- ![Top Graph](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
- ![Top Graph](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
- ![Top Graph](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-  ![Top Graph](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
- ![Top Graph](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- ![Top Graph](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Top Graph](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Top Graph](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-<!-- ![Top Graph](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) -->
-<!-- ![Top Graph](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white) -->
-![Top Graph](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-<!-- ![Top Graph](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) -->
-![Top Graph](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Top Graph](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Top Graph](	https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Top Graph](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-<!--   ![Top Graph](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) -->
- 
-<!--  ## 💻 OS
- 
- ![Top Graph](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
- -->
-
-## SOCIAL
-
- ![Top Graph](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![Top Graph](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
-  ![Top Graph](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-  ![Top Graph](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-  ![Top Graph](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-  ![Top Graph](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)
-  ![Top Graph](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
- 
- 
-<!--  
-## 💻 Terminal
-
- ![Top Graph](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-  ![Top Graph](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-   ![Top Graph](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
- 
- 
-
-## 👨‍💻 Workspace
-
-![Top Graph](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
-![Top Graph](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
-![Top Graph](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white) -->
-
-
-
-<!-- ![Top Graph](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=react-dark)  
-
 
 
 
